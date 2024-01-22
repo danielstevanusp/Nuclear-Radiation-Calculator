@@ -3,6 +3,7 @@ the nuclear radiation decay calculator is a python program designed to determine
 ![image](https://github.com/danielstevanusp/Nuclear-Radiation-Calculator/assets/157248078/06ef60c6-6632-4a76-b0d3-d64c45b988f8)
 
 where:
+
 ![image](https://github.com/danielstevanusp/Nuclear-Radiation-Calculator/assets/157248078/7402ecc6-2c6f-483c-a69d-86f4a7ee15ee)
 
 how to use:
